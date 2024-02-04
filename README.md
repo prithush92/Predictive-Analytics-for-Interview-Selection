@@ -1,6 +1,8 @@
 # Interview-Intel: Predictive Analytics for Interview Status
 
-This machine learning project aimed to revolutionize the hiring process for a large MNC conducting over 1 lakh interviews annually. The goal was to predict interview statuses, providing recruiters with insights into interview sanity and bias detection. The project secured the 2nd prize in a competitive hackathon, highlighting its significant impact on the recruitment pipeline.
+This machine learning project aimed to revolutionize the hiring process for a large MNC conducting over 1 lakh interviews annually. The goal was to predict interview statuses, providing recruiters with insights into interview sanity and bias detection. 
+
+*The project secured the 2nd prize in hackathon orgainzed by Imarticus Learning in collaboration with KPMG, highlighting its significant impact on the recruitment pipeline.*
 
 ## Project Overview
 
